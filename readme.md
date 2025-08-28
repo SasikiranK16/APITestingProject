@@ -184,9 +184,9 @@
 
 <div align="center">
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the ** KAKARA SASIKIRAN ** - see the [LICENSE](LICENSE) file for details.
 
-**Copyright © 2024 Let's Shop API Testing Team**
+**Copyright © 2025 KAKARA SASIKIRAN**
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
 <img src="https://forthebadge.com/images/badges/made-with-java.svg" alt="Made with Java" />
@@ -210,7 +210,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 <sub><sup>
-📅 Last Updated: November 2024 | 
+📅 Last Updated: August 2025 | 
 🔄 Version: 2.0.0 |
 💖 Made with passion for API Testing
 </sup></sub>
