@@ -184,7 +184,7 @@
 
 <div align="center">
 
-This project is licensed under the ** KAKARA SASIKIRAN ** - see the [LICENSE](LICENSE) file for details.
+
 
 **Copyright © 2025 KAKARA SASIKIRAN**
 
