@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.lets.shop.tests.LetsShop">
+      <class name="org.lets.shop.tests.ApiTests">
         <methods>
           <include name="launch"/>
-          <include name="getAuthorizationTokens"/>
+          <include name="AuthorizationTokens"/>
         </methods>
-      </class> <!-- org.lets.shop.tests.LetsShop -->
+      </class> <!-- org.lets.shop.tests.ApiTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
