@@ -6,7 +6,7 @@
       <class name="org.lets.shop.tests.ApiTests">
         <methods>
           <include name="launch"/>
-          <include name="AuthorizationTokens"/>
+          <include name="tests"/>
         </methods>
       </class> <!-- org.lets.shop.tests.ApiTests -->
     </classes>
